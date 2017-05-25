@@ -1,6 +1,5 @@
-# arincalisma
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zxx">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,7 +27,7 @@
     <header>
 	<div class="container">
 	    <div class="row">
-	        <a class="logo" href=#><img src="img/logo.png" alt="arin" /> </a>
+	        <a class="logo" href=#> <img src="img/logo.png" alt="arin" /> </a>
 	        <nav class="menu" id="menu">
 			    <ul>
 			      <li> <a href="#mainContent"> HOME</a></li>
@@ -37,8 +36,9 @@
 				  <li> <a href="#team"> TEAM</a></li>
 			      <li> <a href="#contact"> CONTACT</a></li>
 			    </ul>
-			</div>
+			</nav>
 		</div>
+	</div>
 	</header>
 	
 	<!--Main Content -->
@@ -92,6 +92,7 @@
 			    <h1>WORKS</h1>
 			    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br> tempor incididunt ut labore et dolore
 			magna aliqua.</p>
+			</div>
 			
 			<div class="worksContent">
 			    <div id="row">
@@ -181,16 +182,16 @@
 	<div class="container">
 		<div class="row wow fadeInDown">
 		   <div class="col-md-3">
-		   <img src="img/partner1.png">
+		   <img src="img/partner1.png" alt="EA"/>
 		   </div>
 		   <div class="col-md-3">
-		   <img src="img/partner2.png">
+		   <img src="img/partner2.png" alt="gameloft"/>
 		   </div>
 		   <div class="col-md-3">
-		   <img src="img/partner3.png">
+		   <img src="img/partner3.png" alt="cartoonnetwork"/>
 		    </div>
 		   <div class="col-md-3">
-		   <img src="img/partner4.png">
+		   <img src="img/partner4.png" alt="suzuki"/>
 		   </div>
         </div>
 	</div>	
@@ -228,7 +229,7 @@
 						<h2>Call Us</h2>
 						<p>+905069970339</p>
 						<h2>Our EMail</h2>
-						<a mailto:info@arin.com>info@arin.com</a>
+						<a href="mailto:info@arin.com">info@arin.com</a>
 					</div>
 					
 				</div>
